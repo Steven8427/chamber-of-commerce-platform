@@ -94,4 +94,4 @@ The backend requires a `.env` file with the following variables:
 
 ## License
 
-MIT
+**All Rights Reserved** - This project is for viewing and reference only. No copying, modification, distribution, or commercial use is permitted. See [LICENSE](LICENSE) for details.
